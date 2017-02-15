@@ -4,7 +4,7 @@
   "dependencies": {
     "crossfilter": "^1.3.11",
     "d3": "^3.5.5",
-    "dc": "https://github.com/dc-js/dc.js/tarball/master",
+    "dc": "^2.1.1",
     "express": "^4.13.1",
     "jsdom": "^8.0.0",
     "moment": "^2.10.3",
